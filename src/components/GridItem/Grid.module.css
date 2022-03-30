@@ -1,0 +1,31 @@
+.main {
+  flex: 1;
+  color: white;
+  display: flex;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.girdIcon {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.girdTitle {
+  font-size: 23;
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+.girdInfo {
+  font-size: 12px;
+  margin-top: 10px;
+}
